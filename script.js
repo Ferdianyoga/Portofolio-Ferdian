@@ -49,16 +49,23 @@ const projects = [
     "Masjid Nurul Ikhsan | Jl. Kapi Woro, Keduyo, Mangliawan, Kec. Pakis, Kab. Malang",
   ]},
   {title:"Rancang bangun synchronous buck converter 120 V ke 24 V 250 Watt untuk sistem PLTPH",date:"2026",icon:"⚡",items:[
-    "Merancang dan mensimulasikan rangkaian menggunakan PLECS serta membuat skematik dan PCB menggunakan KiCad.",
-    "Melakukan fabrikasi, perakitan, pengujian, dan pengambilan data prototype."
+    "Merancang dan melakukan simulasi rangkaian daya synchronous buck converter menggunakan software PLECS.",
+    "Melakukan perhitungan dan pemilihan komponen berdasarkan spesifikasi dan hasil simulasi rangkaian.",
+    "Membuat skematik dan routing PCB menggunakan software KiCad.",
+    "Melakukan fabrikasi PCB dan penyolderan komponen hingga menjadi prototype converter.",
+    "Melakukan pengujian dan pengambilan data untuk mengevaluasi performa prototype berdasarkan parameter kelistrikan yang telah ditentukan."
   ]},
   {title:"Perancangan dan perakitan motor starter berbasis VFD dengan kendali manual dan otomatis melalui HMI",date:"2025",icon:"⚙️",items:[
-    "Merancang layout panel dan wiring sistem VFD dengan kendali manual dan otomatis melalui HMI.",
-    "Melakukan perakitan, wiring, instalasi kontrol, serta pengujian sistem."
+    "Menyusun proposal proyek serta merancang layout panel dan wiring diagram sebagai acuan proses perakitan.",
+    "Melakukan perakitan panel, pemasangan komponen, wiring, serta penarikan dan pemasangan kabel daya 3 fasa sesuai rancangan.",
+    "Melakukan instalasi rangkaian kontrol dan memastikan koneksi antar komponen sesuai wiring diagram.",
+    "Melakukan pengujian dan evaluasi sistem untuk memastikan motor starter berbasis VFD dapat beroperasi sesuai rancangan."
   ]},
   {title:"Perancangan dan perakitan rangkaian kontrol dan daya untuk 3 motor listrik pada sistem penggergaji kayu",date:"2024",icon:"🪚",items:[
-    "Merancang rangkaian kontrol dan daya 3 motor dengan metode Star-Delta, Forward-Reverse, dan DOL.",
-    "Membuat wiring, memasang komponen, dan melakukan pengujian fungsi sistem."
+    "Merancang rangkaian kontrol dan daya untuk tiga motor listrik dengan metode Star-Delta, Forward-Reverse, dan Direct-On-Line (DOL).",
+    "MMembuat wiring diagram dan layout rangkaian sebagai acuan proses perakitan panel.",
+    "Melakukan wiring dan pemasangan komponen pada rangkaian kontrol dan daya sesuai rancangan.",
+    "Melakukan pengujian fungsi dan pengoperasian ketiga motor untuk memastikan rangkaian bekerja sesuai sistem kontrol yang dirancang."
   ]}
 ];
 
