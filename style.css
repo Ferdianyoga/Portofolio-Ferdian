@@ -55,8 +55,15 @@ footer{border-top:1px solid rgba(255,255,255,.06);padding:30px 25px;display:flex
 }
 
 @media (max-width: 900px) {
+    .about-card {
+        width: 250px;
+        margin: 0 auto;
+        padding: 15px;
+    }
+
     .profile-photo {
         width: 220px;
         height: 280px;
+        margin: 0 auto;
     }
 }
